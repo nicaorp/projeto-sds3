@@ -13,7 +13,7 @@ const Routes = () => {
                 <Route path="/" exact>
                     <Home />
                 </Route>
-                <Route path="/dashboard">
+                <Route path="/dashboard">f
                     <Dashboard />
                 </Route>
             </Switch>
